@@ -52,4 +52,4 @@
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
 ### Credits
-- [Damantha](https://github.com/Damantha_Jasinghe): De
+- [Damantha](https://github.com/Damantha_Jasinghe): Dev
